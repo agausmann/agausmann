@@ -39,8 +39,8 @@ Contributed to:
 - Built my first mechanical keyboard: a [Planck] rev2.  Flashed it with [QMK]
   firmware.
 
-[Planck](https://olkb.com)
-[QMK](https://qmk.fm)
+[Planck]: https://olkb.com
+[QMK]: https://qmk.fm
 
 Led development of:
 
