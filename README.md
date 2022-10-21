@@ -16,9 +16,45 @@ _(WIP, under construction)_
 
 ## 2017
 
+- Started attending Missouri University of Science and Technology, studying
+  computer science.
+- Joined the SIG-Security student group; participated in CTFs and other events.
+- Accepted a position as research assistant for the CEADS-LIN project at
+  [LANL/S&T CSSI][CSSI] [NC-LAB].
+
+[CSSI]: https://web.archive.org/web/20200211180048/http://web.mst.edu/~tauritzd/CSSI/
+[NC-LAB]: https://web.archive.org/web/20200211180121/http://web.mst.edu/~tauritzd/nc-lab
+
+Led development of:
+
+- [frc-4931/2017-Robot](https://github.com/frc-4931/2017-Robot)
+
+Contributed to:
+
+- [swaywm/sway](https://github.com/swaywm/sway)
+- CEADS
+
 ## 2016
 
+- Built my first mechanical keyboard: a [Planck] rev2.  Flashed it with [QMK]
+  firmware.
+
+[Planck](https://olkb.com)
+[QMK](https://qmk.fm)
+
+Led development of:
+
+- [frc-4931/2016-Robot](https://github.com/frc-4931/2016-Robot)
+
+Contributed to:
+
+- [strongback/strongback-java](https://github.com/strongback/strongback-java)
+
 ## 2015
+
+Led development of: 
+
+- [OpenRedstoneEngineers/OREBot](https://github.com/OpenRedstoneEngineers/OREBot)
 
 Contributed to:
 
@@ -32,6 +68,7 @@ Events:
 - Joined a FIRST Robotics team (FRC 4931), did some electrical and mechanical
   work during the season and started programming with them post-season.
 - Wrote my first Arduino code for the team, was gifted my own Arduino Uno
+- Joined the ORE staff team, helped run Linux servers, bought my first VPS
 
 Contributed to:
 
