@@ -2,7 +2,7 @@
 
 See also: [History of my journey in computing](History.md).
 
-## Currently working on:
+## Currently working on
 
 - [HWLife](https://github.com/agausmann/HWLife), implementing Conway's Game of
 Life with tiled hardware.
