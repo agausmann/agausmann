@@ -7,6 +7,9 @@ See also: [History of my journey in computing](History.md).
 - [HWLife](https://github.com/agausmann/HWLife), implementing Conway's Game of
 Life with tiled hardware.
 
+- Upgrading and scaling up [Bad Apple in Logic World](https://github.com/agausmann/LogicWorld-BadApple)
+  for LW 0.91!
+
 ## Recent projects 
 
 - [riemann-kb](https://github.com/agausmann/riemann-kb), a custom PCB and
