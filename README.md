@@ -8,7 +8,10 @@ See also: [History of my journey in computing](History.md).
 Life with tiled hardware.
 
 - Upgrading and scaling up [Bad Apple in Logic World](https://github.com/agausmann/LogicWorld-BadApple)
-  for LW 0.91!
+  for LW 0.91
+  
+- Improvements to [FlipFlop](https://github.com/agausmann/FlipFlop), a digital
+  logic simulator with simple rules.
 
 ## Recent projects 
 
