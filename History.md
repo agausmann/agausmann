@@ -110,7 +110,7 @@ Events:
 
 Contributed to:
 
-- [RDF-CommandHelper](https://github.com/tyler569/rdf-ch)
+- [RDF-CommandHelper](https://github.com/Jessassin/rdf-ch)
 
 ## pre-2012
 
