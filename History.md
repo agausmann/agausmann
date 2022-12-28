@@ -115,7 +115,7 @@ Contributed to:
 ## pre-2012
 
 - Was introduced to [Scratch] by my computer teacher at school.
-  - [@ProgrammingFreak312]
+  - [@ajg728] [@ajgANNOUNCE] [@ajgGLITCH] [@ProgrammingFreak312]
   - Also had a lot of fun with Scratch derivatives like [BYOB/Snap!][Snap] and
     [Panther], these gave me an even more solid introduction into computer
 science and programming.
@@ -123,6 +123,9 @@ science and programming.
   understood at the time, but I really enjoyed the shareware CD full of games!
 
 [Scratch]: https://scratch.mit.edu
+[@ajg728]: https://scratch.mit.edu/users/ajg728/
+[@ajgANNOUNCE]: https://scratch.mit.edu/users/ajgANNOUNCE/
+[@ajgGLITCH]: https://scratch.mit.edu/users/ajgGLITCH/
 [@ProgrammingFreak312]: https://scratch.mit.edu/users/ProgrammingFreak312/
 [Snap]: https://snap.berkeley.edu/about
 [Panther]: http://pantherprogramming.weebly.com/
